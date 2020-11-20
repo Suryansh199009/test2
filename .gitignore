@@ -1,41 +1,5 @@
-# Compiled Lua sources
-luac.out
+【version】5.0【version】
 
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
+【notes】New Update v4.0 Available! In v5.0 already support for pubgm 0.17【notes】
 
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
+【links】https://t.me/lutfilahdz/1008【links】
